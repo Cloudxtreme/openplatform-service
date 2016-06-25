@@ -1,0 +1,15 @@
+name                            : OpenPlatform Test App
+author                          : You company name
+version                         : 1.0.1
+secret                          : secret-key-for-web
+
+openplatform.url                : http://openapp.totaljs.com/openplatform.json
+
+// Important: openplatform (administration) must know this secret
+openplatform.secret             :
+
+// Enables test user
+openplatform.testmode           : false
+
+// Enables logs
+openplatform.debug              : false

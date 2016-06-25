@@ -1,0 +1,12 @@
+{
+	"name": "TestService",
+	"description": "Some text for the super user.",
+	"version": "1.0.0",
+	"icon": "http://openservice.totaljs.com/icon.png",
+	"serviceurl": "http://openservice.totaljs.com/subscrite/",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"roles": ["create", "read", "update"],
+	"service": true,
+	"origin": []
+}
